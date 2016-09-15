@@ -1,3 +1,9 @@
+emacs24 (24.5+1-7+brew1) unstable; urgency=medium
+
+  * debian/patches/: emacs-cjk-monospace-for-emacs-24.5
+
+ -- Zhong Jianxin <azuwis@gmail.com>  Thu, 15 Sep 2016 20:09:31 +0800
+
 emacs24 (24.5+1-7) unstable; urgency=medium
 
   * debian/control: make Source-Version source:Version.  Thanks to
